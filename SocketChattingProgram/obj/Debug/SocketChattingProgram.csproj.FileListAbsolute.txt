@@ -1,0 +1,11 @@
+C:\Users\Mirim\source\repos\SocketChattingProgram\SocketChattingProgram\obj\Debug\SocketChattingProgram.csprojAssemblyReference.cache
+C:\Users\Mirim\source\repos\SocketChattingProgram\SocketChattingProgram\obj\Debug\SocketChattingProgram.Form1.resources
+C:\Users\Mirim\source\repos\SocketChattingProgram\SocketChattingProgram\obj\Debug\SocketChattingProgram.Properties.Resources.resources
+C:\Users\Mirim\source\repos\SocketChattingProgram\SocketChattingProgram\obj\Debug\SocketChattingProgram.ServerDevice.resources
+C:\Users\Mirim\source\repos\SocketChattingProgram\SocketChattingProgram\obj\Debug\SocketChattingProgram.csproj.GenerateResource.cache
+C:\Users\Mirim\source\repos\SocketChattingProgram\SocketChattingProgram\obj\Debug\SocketChattingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Mirim\source\repos\SocketChattingProgram\SocketChattingProgram\bin\Debug\SocketChattingProgram.exe
+C:\Users\Mirim\source\repos\SocketChattingProgram\SocketChattingProgram\bin\Debug\SocketChattingProgram.pdb
+C:\Users\Mirim\source\repos\SocketChattingProgram\SocketChattingProgram\obj\Debug\SocketChattingProgram.exe
+C:\Users\Mirim\source\repos\SocketChattingProgram\SocketChattingProgram\obj\Debug\SocketChattingProgram.pdb
+C:\Users\Mirim\source\repos\SocketChattingProgram\SocketChattingProgram\obj\Debug\SocketChattingProgram.ClientDevice.resources
