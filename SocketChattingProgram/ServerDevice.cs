@@ -71,7 +71,7 @@ namespace SocketChattingProgram
             IPAddress addr = new IPAddress(0); // 서버 ip
             Server = new TcpListener(addr, port);
             Server.Start(); // 서버 시작
-            SerChatting.AppendText("서버 연결 성공!" + "\n" + addr);
+            Invoke(AddText, "서버 연결 성공!" + "\r\n");
             Client = Server.AcceptTcpClient(); // 클라이언트 연결 수락
             Connected = true;
             Invoke(AddText, "Connected to Client!" + "\r\n");
